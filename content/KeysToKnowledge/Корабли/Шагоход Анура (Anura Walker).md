@@ -27,6 +27,6 @@ tags:
 - Дальнобойный мех
 - Вездеходный шагоход
 - Ядерный тепловой двигатель
-- 
+
 ![[Anura-Walker_Console.jpg]]
 ![[Anura-Walker_Blueprint.jpg]]
