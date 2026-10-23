@@ -24,5 +24,5 @@ tags:
 - Вездеходный шагоход
 - Ядерный тепловой двигатель
 
-![[Anura-Walker_Console.jpg]]
+![[anura-walker.png]]
 ![[Anura-Walker_Blueprint.jpg]]
