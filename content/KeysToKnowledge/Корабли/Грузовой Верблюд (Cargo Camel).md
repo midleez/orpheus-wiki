@@ -25,5 +25,6 @@ tags:
 - Работа в атмосфере
 - Экзотические резервуары для жидкости
 - Радар средней дальности
-![[CargoCamel_Console.jpg]]
+
+![[cargo-camel.png]]
 ![[CargoCamel_Blueprint.jpg]]
